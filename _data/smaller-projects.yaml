@@ -1,0 +1,7 @@
+- title: "Robots in Society"
+  description: "I have collaborated with other researchers looking into how people anthromorphize robots they've never met, such as Mars rovers [<a href='https://dl.acm.org/doi/abs/10.1145/3319502.3374794'>HRI'20</a>] and how robots can induce bystander intervention when being physically abused [<a href='https://dl.acm.org/doi/abs/10.1145/3171221.3171247'>HRI'18</a>]."
+  image: "assets/img/oppy.jpg"
+
+- title: "Robot Identities"
+  description: "I have collaborated with other researchers looking into how robots' identities can jump and co-exist in multiple robots [<a href='https://dl.acm.org/doi/abs/10.1145/3322276.3322340'>DIS'19</a>] and how people perceive a dishonest robot [<a href='https://link.springer.com/article/10.1007/s12369-020-00725-x'>IJSR'21</a>]."
+  image: "assets/img/embodiment.png"

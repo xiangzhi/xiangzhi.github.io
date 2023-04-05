@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/styles.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -14,8 +15,8 @@
   </head>
   <body>
     <div class="wrapper">
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
       <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -38,6 +39,34 @@
       <section>
 
       {{ content }}
+      
+      <h1>Research</h1>
+      {% for project in site.data.projects %}
+        <h3>{{ project.title }}</h3>
+        <div class="research-tile">
+          <div class="research-img">
+            <img src="{{ project.image }}" alt="Project Image" />
+          </div>
+          <div class="research-description">
+            <p>{{ project.description }}</p>
+          </div>
+        </div>
+      {% endfor %}
+
+      <br><br><br>
+
+      <h1>Other Projects</h1>
+      {% for project in site.data.smaller-projects %}
+        <h3>{{ project.title }}</h3>
+        <div class="research-tile">
+          <div class="research-img">
+            <img src="{{ project.image }}" alt="Project Image" />
+          </div>
+          <div class="research-description">
+            <p>{{ project.description }}</p>
+          </div>
+        </div>
+      {% endfor %}
 
       </section>
       <footer>
