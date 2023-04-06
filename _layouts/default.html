@@ -18,7 +18,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="portrait of zhi" />
         {% endif %}
 
         <p>{{ site.job_title }} <br> {{ site.school }} </p>
@@ -45,7 +45,7 @@
         <h3>{{ project.title }}</h3>
         <div class="research-tile">
           <div class="research-img">
-            <img src="{{ project.image }}" alt="Project Image" />
+            <img src="{{ project.image }}" alt="{{project.alt-text}}" />
           </div>
           <div class="research-description">
             <p>{{ project.description }}</p>
@@ -60,7 +60,7 @@
         <h3>{{ project.title }}</h3>
         <div class="research-tile">
           <div class="research-img">
-            <img src="{{ project.image }}" alt="Project Image" />
+            <img src="{{ project.image }}" alt="{{project.alt-text}}" />
           </div>
           <div class="research-description">
             <p>{{ project.description }}</p>

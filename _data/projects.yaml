@@ -1,16 +1,20 @@
 - title: "Sequential Human Interaction with Multiple-Robots"
   description: "Our future likely involves humans interacting with multiple robots, whether because the first robot lacks the capability to complete the task, is more efficient, or the service requires the usage of multiple robots. In this line of work, we explored how to design sequential interaction with multiple robots. We created a taxonomy for this space [<a href='https://dl.acm.org/doi/abs/10.1145/3434073.3444654'>HRI'21</a>], understood how robots should talk to each other [<a href='https://ieeexplore.ieee.org/abstract/document/8673304'>HRI'19</a>], created strategies for robots joining an existing one-on-one interaction [<a href='https://dl.acm.org/doi/abs/10.1145/3536221.3556583'>ICMI'22</a>], and deployed our system in the field [<a href='https://thesis.zhi.fyi'>Thesis</a>]."
   image: "assets/img/person-transfer.jpg"
+  alt-text: "an example of person transfer. It also show the research's contribution: (1) Taxanomy of Interaction, (2) Robot Joining Stratergy, and (3) Communication between robots"
 
 
 - title: "Assistive Navigation Robots in Complex Indoor Spaces"
   description: "Indoor navigation in complex, unfamiliar spaces remains difficult for people with visual impairments. In this line of research, we explored how various types of robots could help people navigate indoor spaces. We explored and designed algorithms for mobile robots [<a href='https://ieeexplore.ieee.org/abstract/document/8967656'>IROS'19</a>, <a href='https://dl.acm.org/doi/abs/10.1145/3441852.3476538'>ASSETS'21 LBR</a>], stationary manipulators [<a href='https://dl.acm.org/doi/abs/10.1145/3308561.3353805'>ASSETS'19</a>], and small spherical robots [<a href='https://ieeexplore.ieee.org/abstract/document/8525555'>RO-MAN'18</a>]."
   image: "assets/img/teaser-gripper.jpg"
+  alt-text: "A person with visual impairment with their face blurred interacting with a stationary robot. It also show the gripper of the robot where it has a ridge to point direction and also a button."
 
 - title: "Leveraging Other Intelligent Systems in Human-Robot Interaction"
   description: "Future human-robot interactions are likely to take place in environments with other intelligent systems, such as screens and smart home sensors. In my past work, I demonstrated a HRI system that takes advantage of a co-located 50-inch touch screen and manages users' attention between the robot and the touch screen [<a href='https://dl.acm.org/doi/abs/10.1145/3371382.3378363'>HRI'20 LBR</a>]. My on-going work explores how robots can leverage additional knowledge from smart home sensors to improve robots' efficiency."
   image: "assets/img/robot-sensor.png"
+  alt-text: "A stretch robot trying to grab a milk in a fridge. On the fridge is also a smart home door sensor."
 
 - title: "Designing Longitudinal Assistive Robots"
   description: "In collabroation with other researchers in AI-CARING, we are taking user-centric approach to design systems that tackle challenges faced by people with mild cognitive impairment living at home. We are currently (1) designing systems that provide safety instructions, (2) creating methods to summarize events for remote care partners, and (3) developing smart-home simulators to advance AI/ML research"
   image: "assets/img/summaries.png"
+  alt-text: "a person standing next to stretch reading a tablet."
