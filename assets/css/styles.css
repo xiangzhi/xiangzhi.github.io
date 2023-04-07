@@ -1,4 +1,4 @@
-.wrapper
+/* .wrapper
 {
     width: 960px;
 }
@@ -11,7 +11,7 @@ header
 section
 {
     width: 670px;
-}
+} */
 
 .research-tile
 {
@@ -28,4 +28,18 @@ section
 .research-description
 {
     padding-left: 1em;
+}
+
+@media print, screen and (max-width: 720px) {
+    .research-tile
+    {
+        display: block;
+        padding-bottom: 2em;
+    }
+
+    .research-description
+    {
+        padding-left: 0em;
+    }
+    
 }
