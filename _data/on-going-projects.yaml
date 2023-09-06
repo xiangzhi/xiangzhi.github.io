@@ -1,0 +1,14 @@
+- title: "1. Multi-Robot Group Interaction"
+  description: "How should a robot leave and re-join existing human-robot groups? In this project, we are extending my prior work to multiple user and different context (e.g. manufacturing)."
+
+- title: "2. Robot in Smart Home Environment"
+  description: "How can robots leverage information from smart home sensors to make better decisions? In this project, we are exploring how robots can use the output of various smart home sensors to better inform their decision process."
+
+- title: "3. Building Service Robots @ Northeastern"
+  description: "Can we build a robot to roam around campus? In this project, you will help build a public-facing deployed robots that will serve as the platform for future lab projects."
+
+- title: "4. Situated Assistance for People with Mild Cognitive Impairment"
+  description: "How can AI technology that are aware of its environment help people with mild cognitive impairment in meal preperation? In this project, we are interested in both understanding the needs of the user (HCI knowledge) and building systems to bridge the gap (algorithmic contribution)."
+
+- title: "Pitch me your idea!"
+  description: "If you have an idea related to my research area, send me an email with a few sentences describing your work/idea. We can then chat more to determine if it will be a good fit."
