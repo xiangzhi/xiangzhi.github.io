@@ -6,7 +6,8 @@ I am a Computer Science Assistant Professor at Khoury College of Computer Scienc
 I am recruiting multiple PhD student for Fall 2025. If you are interested in pursuing a PhD exploring human-robot interaction related questions and want to live in <a href="https://www.youtube.com/watch?v=s9EgbCaeyDs">Boston</a>, please apply to <a href="https://www.khoury.northeastern.edu/programs/computer-science-phd/">Northeastern's CS PhD program</a> and mention my name in your application.
 <br />
 <br />
-If you are a current Northeastern student (both graduate and undergradute) and interested working with me in the Fall 2024, I will provide more information in early August 2024.
+If you are a current Northeastern student (both graduate and undergradute) and interested working with me in the Fall 2024, more information will be posted to this website in early August 2024.
+</div>
 <br />
 My research explores how autonomous robotic systems can collaborate with multiple robots and other embodied systems to provide assistance to diverse users. We use an interdisciplinary and iterative approach where we develop heterogeneous robotic systems that work together to complete tasks that neither robot could complete by itself. Through our explorations, we gain insights into human behavior in response to robots, generate new interaction paradigms and design guidelines, and make advancement in robotic systems and algorithms.
 
